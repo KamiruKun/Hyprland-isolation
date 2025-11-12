@@ -1,4 +1,4 @@
-# Hyprland_isolation
+# Hyprland isolation
 # what does it do?
 it creates a 2nd "enviroment" with workspaces 11-20 so when you click your chosen bind like SUPER + O it goes to workspace 11 and when you click SUPER + 2 it goes to workspace 12 etc.
 # How does it work?
