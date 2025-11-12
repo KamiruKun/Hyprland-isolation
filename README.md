@@ -1,6 +1,6 @@
 # Hyprland isolation
 # what does it do?
-it creates a 2nd "enviroment" with workspaces 11-20 so when you click your chosen bind like SUPER + O it goes to workspace 11 and when you click SUPER + 2 it goes to workspace 12 etc.
+it creates a 2nd "enviroment" with workspaces 11-20 so when you click your chosen bind like SUPER + O it changes the enviroments and when you click SUPER + 2 it goes to workspace 12 etc.
 # How does it work?
 it changes names of 2 hyprland configs (hyprland2.conf --> hyprland.conf) and (hyprland.conf --> hyprland2.conf)
 # how to you set it up?
